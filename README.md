@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Sahana Narayan
-- 👀 I’m currently wowrking on my miniproject.
-- 🌱 I’m currently learning python and matlab.
 - 💞️ I’m looking to collaborate more on open source projects.
 - 📫 Reach me on email @sahananarayan002@gmail.com
 
